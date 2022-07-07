@@ -1,6 +1,8 @@
 # Krux Binaries
 Experimental compiled Krux binaries
 
+![plot](./Images/all.jpeg)
+
 # Flash Instructions:
 Make ktool executable:
 ```
@@ -48,7 +50,7 @@ For Maix Dock connect a rotary encoder:
 ```
 Encoder - Maix Dock
    GND <->  GND
-     + <->  3V3
+     + <->  3V3e
     SW <-> Pin 9
     DT <-> Pin 10
    CLK <-> Pin 11
