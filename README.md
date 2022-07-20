@@ -24,6 +24,11 @@ To Flash Maix Bit run:
 ./ktool-linux -B goE -b 1500000 maixpy_bit/kboot.kfpkg
 ```
 
+To Flash Maix Bit with ov5642 camera:
+```
+./ktool-linux -B goE -b 1500000 maixpy_bit_ov5642/kboot.kfpkg
+```
+
 To Flash Maix Dock run:
 ```
 ./ktool-linux -B dan -b 1500000 maixpy_dock/kboot.kfpkg
