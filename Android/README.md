@@ -3,6 +3,9 @@ Due to the multiple possible vulnerabilities inherent to phones, lack of control
 
 Versions
 
+0.12
+- Show receive addresses 
+
 0.11
 - SeedQR zoomed regions
 - Commits from @feff and @tadeubas pre-release
