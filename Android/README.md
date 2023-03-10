@@ -1,4 +1,4 @@
-The Krux Android app is intended for learning about and experience Krux, signing Bitcoin transactions, messages or Nostr events.
+The Krux Android app is intended for learning about and experience Krux, signing Bitcoin transactions or messages.
 Due to the multiple possible vulnerabilities inherent to phones, lack of control of OS and several libraries and hardware peripherals, Krux app should NOT be used to manage wallets containing savings or other important keys. For that a dedicated device is recommended.
 
 Versions
