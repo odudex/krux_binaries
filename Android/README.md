@@ -8,7 +8,7 @@ Versions
 
 0.11
 - SeedQR zoomed regions
-- Commits from @feff and @tadeubas pre-release
+- Commits from @jeff and @tadeubas pre-release
 
 0.10
 - SeedQR regions mode
