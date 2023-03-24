@@ -3,6 +3,9 @@ Due to the multiple possible vulnerabilities inherent to phones, lack of control
 
 Versions
 
+0.13
+- Create/Scan QR passphrases
+
 0.12
 - Show receive addresses 
 
