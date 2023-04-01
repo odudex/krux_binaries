@@ -3,6 +3,11 @@ Due to the multiple possible vulnerabilities inherent to phones, lack of control
 
 Versions
 
+23.04 BETA_1 Android v0.3
+- WARNING: Seeds stored on previous version WILL BE LOST!
+- Encryption key keypad fix
+- Stored seeds will persist on updates from now on
+
 23.04 BETA_1 Android v0.2
 - Encrypted seed storage
 
