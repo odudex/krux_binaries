@@ -2,6 +2,12 @@ The Krux Android app is intended for learning about and experience Krux, signing
 Due to the multiple possible vulnerabilities inherent to phones, lack of control of OS and several libraries and hardware peripherals, Krux app should NOT be used to manage wallets containing savings or other important keys. For that a dedicated device is recommended.
 
 Versions
+Krux_23.04 BETA_3 Android v0.5
+- WARNING: Seeds stored on previous versions WILL BE LOST! Expect this until we settle encryption method.
+- Pbkdf2_hmac for encryption key derivation
+- Dynamic font sizes to fit more screen sizes and resolutions
+- Compatibility for armeabi-v7a devices (tested on a $34 Androi v6.0 phone)
+
 23.04 BETA_1 Android v0.4
 - Bugfix - Would always load last saved seed
 
