@@ -2,6 +2,14 @@ The Krux Android app is intended for learning about and experience Krux, signing
 Due to the multiple possible vulnerabilities inherent to phones, lack of control of OS and several libraries and hardware peripherals, Krux app should NOT be used to manage wallets containing savings or other important keys. For that a dedicated device is recommended.
 
 Versions
+Krux_23.04 BETA_4 Android v0.6
+- WARNING: Encrypted mnemonic seeds stored on previous versions should be deleted before update, or wipe the app before reinstall.
+- From now on stored mnemonics should persist on app on updates
+- Stored mnemonics version control
+- Stored mnemonics configurations (AES mode and PBKDF2 iterations count)
+- Capture camera's entropy for mnemonic creation
+- Capture camera's entropy for AES-CBC encryption initial vector creation
+
 Krux_23.04 BETA_3 Android v0.5
 - WARNING: Seeds stored on previous versions WILL BE LOST! Expect this until we settle encryption method.
 - Pbkdf2_hmac for encryption key derivation
