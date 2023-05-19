@@ -3,6 +3,11 @@ Due to the multiple possible vulnerabilities inherent to phones, lack of control
 
 ## Versions
 
+Krux_23.04_BETA_6_Android_0.9
+-  Allow QR codes as Encryption keys
+- Transcript helpers for encrypted QR codes
+- Transcript helpers for custom (keys, passphrases)  QR codes
+
 Krux_23.04_BETA_5_Android_0.8
 - Encrypted mnemonic QR codes
 
