@@ -2,6 +2,8 @@ The Krux Android app is intended for learning about and experience Krux, signing
 Due to the multiple possible vulnerabilities inherent to phones, lack of control of OS and several libraries and hardware peripherals, Krux app should NOT be used to manage wallets containing savings or other important keys. For that a dedicated device is recommended.
 
 ## Versions
+Krux_23.04_BETA_6_Android_0.9
+- Color themes (Dark-classic, Light, Orange)
 
 Krux_23.04_BETA_6_Android_0.9
 -  Allow QR codes as Encryption keys
