@@ -36,6 +36,11 @@ To Flash Maix Dock run:
 ./ktool-linux -B dan -b 1500000 maixpy_dock/kboot.kfpkg
 ```
 
+To Flash Yahboom Aimotion you'll have to manually specify the port, on this example `/dev/ttyUSB0`:
+```
+./ktool-linux -B goE -b 1500000 -p /dev/ttyUSB0 yahboom/kboot.kfpkg
+```
+
 Obs: You might need to use "sudo" if your user don't have access to serial port
 
 # Flashing on Windows
