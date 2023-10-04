@@ -4,6 +4,7 @@ Vulnerabilities inherent in Android phones such as the OS, other apps and wirele
 ## Versions
 Krux_24.04_BETA_2_Android_0.1
 - IRQ based interface updates
+- Change font to support more languages
 - Test themes - Green, Pink
 
 Krux_23.08_BETA_18_Android_0.15
