@@ -2,6 +2,10 @@ Krux Android app is intended for learning about Krux and Bitcoin air-gapped tran
 Vulnerabilities inherent in Android phones such as the OS, other apps and wireless connectivity make using any phone insecure. Krux app should NOT be used to manage savings or important keys and mnemonics. For that, a dedicated device is recommended.
 
 ## Versions
+Krux_24.04_BETA_8_Android_0.4
+- Bug fixes from pbkdf2 settings and for QR code and addresses UI
+- BETA_8 UI improvements
+
 Krux_24.04_BETA_5_Android_0.3
 - Small UI changes
 
