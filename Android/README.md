@@ -3,7 +3,10 @@ Vulnerabilities inherent in Android phones such as the OS, other apps and wirele
 
 ## Versions
 
-Krux_24.09_BETA_14_Android_0.9.apk
+Krux_24.10_BETA_4_Android_0.1
+- Read incomplete words mnemonics QR code
+
+Krux_24.09_BETA_14_Android_0.9
 - Translations code refactored
 - Bugfix: QR codes started with "playoff" would be detected as pMofN
 
