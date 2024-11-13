@@ -3,6 +3,11 @@ Vulnerabilities inherent in Android phones such as the OS, other apps and wirele
 
 ## Versions
 
+Krux_24.11.0_Android_0.1
+- Update features from 242.11.0
+- Base64 Passwords (with copy to clipboard function for Android only)
+- Japanese Translation
+
 Krux_24.10_BETA_4_Android_0.1
 - Read incomplete words mnemonics QR code
 
