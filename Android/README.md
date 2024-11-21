@@ -3,6 +3,9 @@ Vulnerabilities inherent in Android phones such as the OS, other apps and wirele
 
 ## Versions
 
+Krux_24.11.1_Android_0.1
+- Security bugfix - Properly use AES-CBC IV
+
 Krux_24.11.0_Android_0.1
 - Update features from 242.11.0
 - Base64 Passwords (with copy to clipboard function for Android only)
