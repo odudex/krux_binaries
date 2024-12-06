@@ -3,6 +3,9 @@ Vulnerabilities inherent in Android phones such as the OS, other apps and wirele
 
 ## Versions
 
+Krux_25.01.beta2_Android_0.1
+- Experimental Miniscript support
+
 Krux_24.11.1_Android_0.1
 - Security bugfix - Properly use AES-CBC IV
 
