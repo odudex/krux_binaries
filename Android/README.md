@@ -3,6 +3,9 @@ Vulnerabilities inherent in Android phones such as the OS, other apps and wirele
 
 ## Versions
 
+Krux_25.01.beta8_Android_0.2
+- Experimental Taproot Miniscript support
+
 Krux_25.01.beta2_Android_0.1
 - Experimental Miniscript support
 
