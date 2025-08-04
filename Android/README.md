@@ -1,7 +1,9 @@
-Krux Android app is intended for learning about Krux and Bitcoin air-gapped transactions.
-Vulnerabilities inherent in Android phones such as the OS, other apps and wireless connectivity make using any phone insecure. Krux app should NOT be used to manage savings or important keys and mnemonics. For that, a dedicated device is recommended.
+## Krux Modile App Dedicated Repository
+Krux Mobile App is now hosted in
+github.com/selfcustody/KruxMobileApp
 
-## Versions
+
+## Old Versions log
 
 Krux_25.01.beta12_Android_0.3
 - Refactors from betas 8->12
