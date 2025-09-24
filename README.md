@@ -21,11 +21,6 @@ To Flash M5stickV run:
 ./ktool-linux -B goE -b 1500000 maixpy_m5stickv/kboot.kfpkg
 ```
 
-To Flash Maix Bit run:
-```
-./ktool-linux -B goE -b 1500000 maixpy_bit/kboot.kfpkg
-```
-
 To Flash Maix Dock run:
 ```
 ./ktool-linux -B dan -b 1500000 maixpy_dock/kboot.kfpkg
@@ -39,6 +34,16 @@ To Flash Yahboom Aimotion you'll have to manually specify the port, on this exam
 To Flash Maix Cube run:
 ```
 ./ktool-linux -B goE -b 1500000 maixpy_cube/kboot.kfpkg
+```
+
+To Flash WondeMV:
+```
+./ktool-linux -B dan -b 1500000 maixpy_wonder_mv/kboot.kfpkg
+```
+
+To Flash TZT:
+```
+./ktool-linux -B dan -b 1500000 maixpy_tzt/kboot.kfpkg
 ```
 
 Obs: You might need to use "sudo" if your user don't have access to serial port
