@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository is archived and no longer maintained.** It is kept read-only for reference. No further updates, bug fixes, or releases will be made, and issues and pull requests are no longer accepted. Existing APKs will not receive security updates, so use them for learning purposes only.
+
 # Krux Binaries
 Experimental compiled Krux binaries.
 
